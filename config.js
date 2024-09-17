@@ -12,5 +12,5 @@ btnYes: 'Sầu riêng mãi đỉnh <33',
     mess: 'Tui biết mà 🥰. hí hí 😘😘',
     messDesc: 'Thế ăn sầu riêng cả đời nhé',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://m.me/mot2ba4ngay/' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://m.me/mot2ba4ngay/' 
 }
