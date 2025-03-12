@@ -1,7 +1,7 @@
 const CONFIG = {
     introTitle: 'Kiều à!',
     introDesc: `Chào người đẹp của anh nhé`,
-    btnIntro: 'He he hh hee',
+    btnIntro: 'Người đẹp chào anh nhé',
     title: 'Không biết là Bae đang iu anh như anh iu bae không nhỉ?😙',
     desc: 'Để thế giới này bớt đi 2 kẻ cô đơn, Bae cho anh một cơ hội để cùng Bae đi tiếp quảng đường còn lại nhé',
     btnYes: 'Có, em rất đồng ý <3',
