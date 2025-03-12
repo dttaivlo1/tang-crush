@@ -29,8 +29,8 @@ function firstQuestion(){
         imageAlt: 'Custom image',
         confirmButtonText: CONFIG.btnIntro
       }).then(function(){
-         var audio = new Audio('sound/sound.mp3');
-    audio.play();
+         var ausdio = new Audio('sound/sound.mp3');
+    ausdio.play();
         $('.content').show(200);
       })
 }
