@@ -10,7 +10,7 @@ const CONFIG = {
     btnReply: 'Gửi cho anh này <3',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Anh biết mà 🥰. hí hí 😘😘',
-    messDesc: 'Thế ở bên anh cả đời nhé?',
+    messDesc: 'Anh mở lời qua cái web này rồi, bae đợi anh mở lời trực  tiếp nữa nhé, iu bae nhiều lắm!!',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://m.me/tai.duong601/' 
 }
